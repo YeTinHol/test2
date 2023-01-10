@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("222222222222222");
         System.out.println("2222222222222qqqqqqqqqqqqqqqqqqqq22");
         System.out.println("2222222222222hot-fix");
+        System.out.println("2222222222222hot-fix&&&&&&&&&&&&&&&&&&&&&&&&&&&&7");
     }
 }
